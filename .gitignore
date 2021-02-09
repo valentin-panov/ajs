@@ -2,7 +2,7 @@
 Thumbs.db*
 .DS_Store*
 HELP.md
-dist
+#deleted due 2 task dist
 doc
 
 # Logs
